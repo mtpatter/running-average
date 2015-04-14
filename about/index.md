@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "About"
-date: 2014-06-02T09:44:20-04:00
-modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+date: 2015-04-08T09:44:20-04:00
+modified: 2015-04-08T14:56:44-04:00
+excerpt: "This is the Running Average about page."
 image:
   feature:
   teaser:
@@ -12,6 +12,17 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+I'm a newbie running impostor slowly becoming obsessed with my running data.
+
+I reluctantly agreed to sign up for a half marathon after 
+several mimosas at New Year's Day brunch with my good friend.  I finished it (going from 
+never running more than ~2-3 miles at once and not a single mile in several years) 
+and surprisingly 
+didn't hate it or die at the finish line, so I've decided to try to keep up with the
+running and have signed up for more races to keep me motivated.
+
+I'll share my experience here partly to keep my own records and partly to
+provide a reference and some real data about a non-athlete, average person, beginner 
+distance runner (> 5k) to contribute back to the interwebs in light of my new obsession with reading running blogs and running related stats.
+
