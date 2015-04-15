@@ -22,7 +22,7 @@ race experience at an easier distance before the half.
 
 <figure class="half">
         <img src="{{ site.url }}/images/shamrock-gear.jpg">
-        <figcaption>2015 Shamrock Shuffle Nike dri-fit shirt, gaiter, and medal (with pin).</figcaption>
+        <figcaption>2015 Shamrock Shuffle Nike dri-fit shirt (I got a Womens' small, fits well), gaiter, and medal (with pin).</figcaption>
 </figure>
 
 We picked up our race packets at the fitness expo Friday night before the

@@ -26,3 +26,12 @@ I'll share my experience here partly to keep my own records and partly to
 provide a reference and some real data about a non-athlete, average person, beginner 
 distance runner (> 5k) to contribute back to the interwebs in light of my new obsession with reading running blogs and running related stats.
 
+<a href="http://twitter.com/runaverage" class="btn-social twitter"><i class="fa fa-twitter" aria-hidden="true"></i> Follow me on Twitter @runaverage</a>
+
+<figure>
+  <a href = "{{site.url}}/images/lakefront-brooks.jpg"> <img src = "{{site.url}}/images/lakefront-brooks.jpg"> </a>
+  <figcaption>  </figcaption> 
+  
+</figure>
+
+

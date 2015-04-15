@@ -22,7 +22,7 @@ my opinion, getting up to low fifties with plenty of sun by the end of it.
 
 <figure class="half">
         <img src="{{ site.url }}/images/chihalf-gear.jpg">
-        <figcaption>Chi-Town Half full-zip spring hoodie and medal.</figcaption>
+        <figcaption>Chi-Town Half full-zip spring hoodie (I got a small since they were unisex sizing) and medal.</figcaption>
 </figure>
 
 We picked up our race packets at Sports Authority the Thursday night before the
