@@ -4,7 +4,7 @@ title: "Live Grit Lakefront 10 Miler"
 categories: race-recaps
 excerpt: "Nice day for the 2015 Live Grit Lakefront 10 Miler. Here's a recap."
 ads: false
-share: false
+share: true
 image:
   feature: live-grit-lake.jpg
   teaser: live-grit-start.jpg

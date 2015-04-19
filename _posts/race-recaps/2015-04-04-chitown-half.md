@@ -4,7 +4,7 @@ title: "First half marathon- Chi Town Half"
 categories: race-recaps
 excerpt: "Recap of the 2015 All Community Events Chi Town Half Marathon and 10k."
 ads: false
-share: false
+share: true
 image:
   teaser: chi-town-header.jpg
 ---

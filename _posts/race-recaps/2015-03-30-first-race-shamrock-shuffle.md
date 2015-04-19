@@ -4,7 +4,7 @@ title: "First race - Shamrock Shuffle 2015"
 categories: race-recaps
 excerpt: "Recap of the 2015 Bank of America Shamrock Shuffle 8k."
 ads: false
-share: false
+share: true
 image:
   feature: shamrock-2015.jpg
   teaser: shamrock-2015.jpg
