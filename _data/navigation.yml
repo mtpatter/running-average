@@ -2,15 +2,15 @@
 
 - title: Training
   url: /training/
-  excerpt: "Examples of long form posts."
-  image: 400x250.gif
+  excerpt: "Thoughts on all things related to training and everyday running."
+  image: lakefront-brooks.jpg
 
 - title: Race Recaps
   url: /race-recaps/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
-  image: 400x250.gif
+  excerpt: "Reviews and recaps for races."
+  image: sf10-header.jpg
 
 - title: About
   url: /about/
   excerpt: "About me."
-  image: 400x250.gif
+  image: bio-photo.jpg
