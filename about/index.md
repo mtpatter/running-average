@@ -27,6 +27,7 @@ provide a reference and some real data about a non-athlete, average person, begi
 distance runner (> 5k) to contribute back to the interwebs in light of my new obsession with reading running blogs and running related stats.
 
 <a href="http://twitter.com/runaverage" class="btn-social twitter"><i class="fa fa-twitter" aria-hidden="true"></i> Follow me on Twitter @runaverage</a>
+<a href="http://www.athlinks.com/athletes/219901730" class="btn-social twitter"><i class="fa fa-trophy" aria-hidden="true"></i> Follow me on Athlinks</a>
 
 <figure>
   <a href = "{{site.url}}/images/lakefront-brooks.jpg"> <img src = "{{site.url}}/images/lakefront-brooks.jpg"> </a>
