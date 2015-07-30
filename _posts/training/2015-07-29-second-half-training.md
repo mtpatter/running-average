@@ -2,7 +2,7 @@
 layout: article
 title: "Training for my second half marathon"
 categories: training
-modified: 2015-04-14T11:57:41-04:00
+modified: 2015-07-29T11:57:41-04:00
 tags: [training]
 comments: false
 ads: false
