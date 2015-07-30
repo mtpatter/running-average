@@ -72,7 +72,7 @@ Anyway, compared to the other runners, I was
 </figure>
 
 
-After the race, the signage was really poor, and I didn't even understand where to go for the post-race party.  There was Gatorade and water bottles and small ice-cold set towels, which was nice.  Would have been much better to have some real food besides bananas/bagels.  For almost $100 regisration, I want some pizza or something and also real (non-Michelob Ultra) beer.  Sat in too much sun while finishing my two beers (they were handing out so many beer tickets, might as well go for quantity) and complain about how crappy the race was before heading home to air conditioning. 
+After the race, the signage was really poor, and I didn't even understand where to go for the post-race party.  There was Gatorade and water bottles and small ice-cold wet towels, which was nice.  Would have been much better to have some real food besides bananas/bagels.  For almost $100 regisration, I want some pizza or something and also real (non-Michelob Ultra) beer.  Sat in too much sun while finishing my two beers (they were handing out so many beer tickets, might as well go for quantity) and complaining about how crappy the race was before heading home to air conditioning. 
 
 ### In short
 Over priced, poorly executed, too hot, never again.  
