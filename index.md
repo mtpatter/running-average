@@ -5,7 +5,6 @@ image:
   feature: run-ave.png
 ---
 
-## Latest Posts
 
 <div class="tiles">
 {% for post in site.posts limit:8 %}
