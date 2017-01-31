@@ -10,7 +10,7 @@ RUN apt-get install -y nodejs
 RUN gem install rubygems-update 
 RUN update_rubygems
 
-RUN gem install jekyll bundler
+RUN gem install bundler
 
 EXPOSE 4000
 
