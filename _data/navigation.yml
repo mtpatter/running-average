@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: Updates
+  url: /updates/
+  excerpt: "Follow updates from me on Twitter @runaverage."
+  image: mag-finish.jpg
+
 - title: Training
   url: /training/
   excerpt: "Thoughts on all things related to training and everyday running."
