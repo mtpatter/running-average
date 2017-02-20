@@ -1,5 +1,7 @@
 # My running blog using the Skinny Bones theme
 
+[![Docker Automated buil](https://img.shields.io/docker/automated/mtpatter/jekyll-skinnybones.svg)](https://hub.docker.com/r/mtpatter/jekyll-skinnybones/)
+
 For Docker jekyll environment, from the root directory, build a Docker image:
 
 ```
