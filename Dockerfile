@@ -19,5 +19,6 @@ COPY Gemfile* /srv/jekyll/
 WORKDIR /srv/jekyll/
 
 #CMD bundle update safe_yaml execjs \
+RUN bundle update
 RUN bundle install
 CMD bundle exec jekyll serve --host=0.0.0.0 --force_polling --watch
